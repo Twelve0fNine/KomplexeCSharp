@@ -1,0 +1,7 @@
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\bin\Release\KomplexeCSharp.exe
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\bin\Release\KomplexeCSharp.pdb
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Release\KomplexeCSharp.Form1.resources
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Release\KomplexeCSharp.Properties.Resources.resources
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Release\KomplexeCSharp.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Release\KomplexeCSharp.exe
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Release\KomplexeCSharp.pdb

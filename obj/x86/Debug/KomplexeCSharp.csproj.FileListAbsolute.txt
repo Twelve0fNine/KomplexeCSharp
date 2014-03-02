@@ -1,0 +1,16 @@
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\bin\Debug\KomplexeCSharp.exe
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\bin\Debug\KomplexeCSharp.pdb
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.exe
+C:\Users\User\documents\visual studio 2010\Projects\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.pdb
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\bin\Debug\KomplexeCSharp.exe
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\bin\Debug\KomplexeCSharp.pdb
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.Form1.resources
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.Properties.Resources.resources
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.exe
+D:\Eigene Dateien\Projekte\KomplexeCSharp\KomplexeCSharp\obj\x86\Debug\KomplexeCSharp.pdb

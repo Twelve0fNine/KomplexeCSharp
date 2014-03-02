@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+using MySql.Data;
+using MySql.Data.MySqlClient;
+namespace WindowsApplication10
+{
+    public partial class Form1 : Form
+    {
+        MySqlConnection connection = new MySqlConnection(@"Server=127.0.0.1;Uid=root;Pwd=;Database=testkunde;");
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            connection.Open();
+            string sql = "INSERT INTO player (playername) VALUES (\'" + textBox1.Text.Trim() +
+                "\')";
+            //string sql2 = "CALL test(" + textBox1.Text.Trim() + ");";
+            MySqlCommand insertCommand = new MySqlCommand();
+            insertCommand.Connection = connection;
+            insertCommand.CommandText = "InsertPlayerName";
+            insertCommand.CommandType = CommandType.StoredProcedure;
+            insertCommand.Parameters.Add("?_value", textBox1.Text.Trim());
+            insertCommand.Parameters["?_value"].Direction = ParameterDirection.Input;
+            insertCommand.ExecuteNonQuery();
+            connection.Close();
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            connection.Open();
+            MySqlCommand readCommand = new MySqlCommand("SELECT * FROM player", connection);
+            MySqlDataAdapter adapter = new MySqlDataAdapter(readCommand);
+            DataSet ds = new DataSet();
+            DataTable dt=new DataTable();
+            adapter.Fill(dt);
+            dataGridView1.DataSource = dt;
+            dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+            connection.Close();
+        }
+    }
+}
